@@ -13,13 +13,13 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94753420144'
+global.REACT_NUMBER = '212661809542'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -34,22 +34,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94753420144'] //ur owner number
+global.vcardowner = ['212661809542'] //ur owner number
 global.ownername = "SenuBoy" //ur owner name
 global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['94753420144']
-global.ownertag = '94753420144' //ur tag number
-global.botname = 'Queen-Melissa-Beta' //ur bot name
+global.owner = ['212661809542']
+global.ownertag = '212661809542' //ur tag number
+global.botname = 'LO9MANE BOT-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "💖" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
+global.packname = "LO9MANE BOT😻❤️‍🔥" //ur sticker watermark packname
 global.author = "SenuBoy" //ur sticker watermark author
 
 //Bot theme media
@@ -86,15 +86,15 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⚜'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! 🇱🇰',
-    botAdmin: 'Bot Must Be Admin First! 🇱🇰',
-    owner: 'This Feature Is Only For Owner! 🇱🇰',
-    group: 'Feature Used Only For Groups! 🇱🇰',
+    admin: 'هاد لميزة خاصني حتا نڪون ادمين عاد نديࢪها فهمتي؟😻! ',
+    botAdmin: 'هاد لميزة ديال لبوت هه!',
+    owner: 'هاد لميزة خاصة هيࢪ بالمطوࢪ ديال لبوت😻!',
+    group: 'هاد لميزة عندڪ لحق ديࢪها فالڪروبااا! ',
     private: 'Features Used Only For Private Chat! 🇱🇰',
-    bot: 'This Feature Is Only For Bot 🇱🇰',
-    wait: 'In wait 🇱🇰',
-    linkm: 'Where is the link? 🇱🇰',
-    error: 'Error!!',
+    bot: 'هاد لميزة خاصة هيࢪ بالبوت 😻 ',
+    wait: 'تسنا اصديقي😻 ',
+    linkm: 'فيناهو ليان؟? ',
+    error: 'خطاأ😻!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
